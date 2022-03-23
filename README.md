@@ -1,4 +1,4 @@
-# autopayflutter
+# ThingsPay
 
 A new Flutter application.
 
