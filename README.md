@@ -1,16 +1,3 @@
 # ThingsPay
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ThingsPay is a compatible platform to connect all kinds of things and implements Intelligent systems that are capable of making autonomous decisions to make payments such as ordering the detergent/printer ink/ water purifier filters through digital currency. Also our application uses Ai to find the best deals which reduces the human decision making time and users can confirm the order through app or voice. By this it reduces human effort and saves time in decision making.
