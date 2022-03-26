@@ -5,5 +5,5 @@ ThingsPay is a compatible platform to connect all kinds of things and implements
 # Payment RestAPI
 https://github.com/gajwadaprashanth/Payment-RestApi
 
-# ThingsPay IOT (Car Usecase)
+# ThingsPay IOT
 https://github.com/gajwadaprashanth/ThingsPay-Car-IOT
